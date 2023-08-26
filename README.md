@@ -2,6 +2,6 @@
 
 He realizado Fork a los siguientes colegas:
 
-José Carmona - Eduardo Solar - Rosario Ruiz-Tagle
+<a href="https://github.com/alstuardo/ForkJose">José Carmona</a> - Eduardo Solar - Rosario Ruiz-Tagle
 
 by Alejandro Stuardo
